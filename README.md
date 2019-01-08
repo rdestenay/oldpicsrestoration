@@ -14,7 +14,7 @@ The tow important criteria are :
 
 Here is the picture that I want to restore :
 
-<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/grandma.jpg" alt="grandma's pic" height="500"/>
+<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/grandma.jpg" alt="grandma's pic" height="500"/>
 
 
 
@@ -29,11 +29,12 @@ The first step of our work consists of artificially deteriorating a large datase
 - making it black and white
 - playing with the levels
 - adding blur
-- generating a lot of grain image to be added to the image
-- generating some fake hairon the lens, stain, tearing, and other things that happens to old pictures
-- adding some vignette
+- generating grain images to be added to the image
+- generating masks to be added to the image (this is to simulate things that happens to old pictures, such as hair on the lens, stain, tearing, some vignette)
+
+<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000003.jpg" alt="grain" height="200"/> <img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000029.jpg" alt="mask" height="200"/>
 
 The result is as follow:
-![Example of artificial deterioration](https://github.com/rdestenay/oldpicsrestoration/blob/master/deterioration.png)
+![Example of artificial deterioration](https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/deterioration.png)
 
 The dataset use for our experiment is the LSUN person dataset.
