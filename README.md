@@ -31,8 +31,8 @@ The first step of our work consists of artificially deteriorating a large datase
 - adding blur
 - generating grain images to be added to the image
 - generating masks to be added to the image (this is to simulate things that happens to old pictures, such as hair on the lens, stain, tearing, some vignette)
-<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000003.jpg" alt="grain" height="200"/>
-<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000029.jpg" alt="mask" height="200"/>
+
+<img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000003.jpg" alt="grain" height="200"/> <img src="https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/000029.jpg" alt="mask" height="200"/>
 
 The result is as follow:
 ![Example of artificial deterioration](https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/deterioration.png)
