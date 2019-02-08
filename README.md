@@ -36,5 +36,8 @@ The first step of our work consists of artificially deteriorating a large datase
 
 The result is as follow:
 ![Example of artificial deterioration](https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/deterioration.png)
+![Example of artificial deterioration](https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/deterioration2.png)
+![Example of artificial deterioration2](https://github.com/rdestenay/oldpicsrestoration/blob/master/readmepics/deteriorations.png)
 
-The dataset use for our experiment is the LSUN person dataset.
+
+The dataset used for our experiment is the LSUN person dataset.
